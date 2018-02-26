@@ -8,7 +8,8 @@ do
     name="${name%.*}"
     source="${name}.${extn}"
     target="${name}.ogg"
-    ffmpeg -i "${source}" "${target}" -n
+    # -vn: only sound, no video
+    ffmpeg -i "${source}" -vn "${target}" -n
     rm "${source}"
 done
 echo "DONE"
