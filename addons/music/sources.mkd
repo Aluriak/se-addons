@@ -1,0 +1,9 @@
+Official link to the tracks are given.
+You will have to download them, and convert them to ogg.
+
+On unix, this can be done with `wget` and `ffmpeg` (see `download-sources` script).
+
+- [Andrew Odd — Discoveries](http://freemusicarchive.org/music/Andrew_Odd/Discoveries).
+- [My Own Cubic Stone — 917](http://freemusicarchive.org/music/My_Own_Cubic_Stone/917)
+- [Chuzausen — Low Gravity Walk](http://freemusicarchive.org/music/Chuzausen/Attempt_Of_Comunication/07Chuzausen-Low_Gravity_Walk)
+- [Letmeknowyouanatole — Universe In The Bath](http://freemusicarchive.org/music/Letmeknowyouanatole/Universe_In_The_Bath)

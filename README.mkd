@@ -1,0 +1,2 @@
+# SpaceEngine — addons
+An addon generator, currently mainly for music.
