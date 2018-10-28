@@ -1,6 +1,8 @@
-Session.vim
 *.flac
 *.mp3
 *.mp4
 *.ogg
 *.wav
+Session.vim
+__pycache__/
+venv/
