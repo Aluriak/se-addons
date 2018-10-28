@@ -1,2 +1,4 @@
 # SpaceEngine — addons
 An addon generator, currently mainly for music.
+
+See [se-lang](https://github.com/aluriak/se-lang) for generation of solar systems.
