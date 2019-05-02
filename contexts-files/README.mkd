@@ -1,0 +1,3 @@
+SpaceEngine Contexts files.
+
+- `context.cfg`: the base context file shipped with SpaceEngine

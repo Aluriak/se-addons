@@ -2,3 +2,19 @@
 An addon generator, currently mainly for music.
 
 See [se-lang](https://github.com/aluriak/se-lang) for generation of solar systems.
+
+
+## Musics in this repository
+Official link to the tracks are given.
+You will have to download them, and convert them to ogg.
+
+On unix, this can be done with `youtube-dl`, `wget` and `ffmpeg` (see `download-sources` script).
+
+- [Tycho — dive](https://www.youtube.com/watch?v=Z6ih1aKeETk)
+- [Andrew Odd — Discoveries](http://freemusicarchive.org/music/Andrew_Odd/Discoveries)
+- [My Own Cubic Stone — 917](http://freemusicarchive.org/music/My_Own_Cubic_Stone/917)
+- [Chuzausen — Low Gravity Walk](http://freemusicarchive.org/music/Chuzausen/Attempt_Of_Comunication/07Chuzausen-Low_Gravity_Walk)
+- [Letmeknowyouanatole — Universe In The Bath](http://freemusicarchive.org/music/Letmeknowyouanatole/Universe_In_The_Bath)
+- [Emitremmus — Echos from Space](https://www.jamendo.com/album/146249/echoes-from-space)
+- [In paradisum](https://www.youtube.com/watch?v=6-i1ESIRKdA)
+- [frozen planet](https://www.youtube.com/watch?v=e-zEFZoxp%5F8)
